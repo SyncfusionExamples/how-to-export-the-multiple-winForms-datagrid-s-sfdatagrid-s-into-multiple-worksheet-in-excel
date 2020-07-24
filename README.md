@@ -26,5 +26,7 @@ private void OnExportButton_Click(object sender, EventArgs e)
 }
 ```
 
+![Excel_Image](Excel_Image.png)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
